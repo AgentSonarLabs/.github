@@ -1,7 +1,7 @@
 # Sonar
 
 <p align="center">
-  <img src="https://YOUR-BANNER-URL" alt="Sonar Banner" width="100%" />
+  <img src="./background.png" alt="Sonar Banner" width="100%" />
 </p>
 
 <p align="center">
